@@ -45,7 +45,7 @@ menu_tarefas = """
 ┃                                                                          ┃
 ┃   [4] - Listar tarefas por categoria                                     ┃
 ┃                                                                          ┃
-┃   [5] - Remover tarefa                                                   ┃
+┃   [5] - Remover                                                          ┃
 ┃                                                                          ┃
 ┃   [0] - Sair                                                             ┃                                                       
 ┃                                                                          ┃
