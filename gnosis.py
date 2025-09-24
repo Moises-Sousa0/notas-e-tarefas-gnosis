@@ -131,7 +131,9 @@ def adicionar_subtopico():
 
 
 def adicionar_anotaçao():
-    tema = input("┃ Digite o nome da seção onde deseja adicionar a anotação: ")
+    listar()
+
+    tema = input("\n\n┃ Digite o nome da seção onde deseja adicionar a anotação: ")
     if tema not in secoes:
         print("┃ Essa seção não existe")
         return
